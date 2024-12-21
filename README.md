@@ -23,7 +23,7 @@ A Todo application built with React that allows users to create, edit, delete, a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/mrigendra-18/todo-app.git
     cd todo-app
     ```
 
@@ -34,7 +34,7 @@ A Todo application built with React that allows users to create, edit, delete, a
 
 3. Run the app:
     ```bash
-    npm start
+    npm run dev
     ```
 
 The app will run on `http://localhost:3000`.
